@@ -1,0 +1,24 @@
+Wireless communications is by any measure the fastest growing segment of the communications industry As
+such it has captured the attention of the media and the imagination of the public Cellular systems have experienced exponential growth over the last decade and there are currently around two billion users worldwide Indeed
+cellular phones have become a critical business tool and part of everyday life in most developed countries, and
+are rapidly supplanting antiquated wireline systems in many developing countries. In addition, wireless local area
+networks currently supplement or replace wired networks in many homes, businesses, and campuses. Many new
+applications, including wireless sensor networks, automated highways and factories, smart homes and appliances,
+and remote telemedicine, are emerging from research ideas to concrete systems. The explosive growth of wireless systems coupled with the proliferation of laptop and palmtop computers indicate a bright future for wireless
+networks, both as stand-alone systems and as part of the larger networking infrastructure. However, many technical challenges remain in designing robust wireless networks that deliver the performance necessary to support
+emerging applications. In this introductory chapter we will briefly review the history of wireless networks, from
+the smoke signals of the pre-industrial age to the cellular, satellite, and other wireless networks of today. We
+then discuss the wireless vision in more detail, including the technical challenges that must be overcome to make
+this vision a reality. We describe current wireless systems along with emerging systems and standards. The gap
+between current and emerging systems and the vision for future wireless applications indicates that much work
+remains to be done to make this vision a reality.
+The first wireless networks were developed in the Pre-industrial age. These systems transmitted information over
+line-of-sight distances (later extended by telescopes) using smoke signals, torch signaling, flashing mirrors, signal
+flares, or semaphore flags. An elaborate set of signal combinations was developed to convey complex messages
+with these rudimentary signals. Observation stations were built on hilltops and along roads to relay these messages
+over large distances. These early communication networks were replaced first by the telegraph network (invented
+by Samuel Morse in 1838) and later by the telephone. In 1895, a few decades after the telephone was invented,
+Marconi demonstrated the first radio transmission from the Isle of Wight to a tugboat 18 miles away, and radio
+communications was born. Radio technology advanced rapidly to enable transmissions over larger distances with
+better quality, less power, and smaller, cheaper devices, thereby enabling public and private radio communications,
+television, and wireless networking.
